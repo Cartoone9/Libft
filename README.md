@@ -1,5 +1,5 @@
 <div align="center">
-![Project score](https://i.ibb.co/cmF80PB/image.png)
+  <img src="https://i.ibb.co/cmF80PB/image.png" alt="Project score">
 </div>
 
 # libft
