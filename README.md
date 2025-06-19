@@ -1,4 +1,6 @@
-![Project score](https://i.ibb.co/cmF80PB/image.png)
+<div align="center">
+    ![Project score](https://i.ibb.co/cmF80PB/image.png)
+</div>
 
 # libft
 
