@@ -9,15 +9,15 @@ This is my implementation of libft, the foundational project from 42 School. It'
 ## Usage
 
 To compile the library, navigate to the project root and run:
-```Bash
+```bash
 make
 ```
 
-This will generate libft.a, a static library file. You can then link this library with your own C programs.
+This will generate `libft.a`, a static library file. You can then link this library with your own C programs.
 
 The bonus rule compiles additional functions (e.g., linked list operations) as defined in the project.
 
-```Bash
+```bash
 make bonus
 ```
 
